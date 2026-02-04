@@ -1,0 +1,16 @@
+input {
+    width: 100%;
+    border: 1px solid black;
+    padding: 8px 10px;
+    font-size: 16px;
+    font-weight: 200;
+    border-radius: 10px;
+}
+input::placeholder {
+    font-weight: 100;
+    color: #999;
+}
+input:focus {
+    border-color: royalblue;
+    box-shadow: 0 0 0 1px rgba(79, 70, 229, 0.15);
+}

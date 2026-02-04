@@ -1,0 +1,16 @@
+form.form {
+    background-color: white;
+    box-shadow: 0 2px 2px 1px rgba(0, 0, 0, 0.1);
+    padding: 10px 25px 25px 25px;
+    border: 1px solid black;
+}
+form.form h1 {
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+}
+div.group {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 14px;
+}
