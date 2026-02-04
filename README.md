@@ -30,8 +30,8 @@ east-live-place-finder/
 
 ## Clone Project
 ```bash
-git clone project-name
-cd east-live-placc-finder
+git clone https://github.com/Sandamele/28-east-live-place-finder
+cd 28-east-live-placc-finder
 ```
 
 ## Setup Google Maps API Key
